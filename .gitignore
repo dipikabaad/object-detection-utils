@@ -1,0 +1,6 @@
+# bulk files
+Scraper/node_modules/
+Scraper/images/
+
+# system files
+*.DS_Store

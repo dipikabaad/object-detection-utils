@@ -1,0 +1,22 @@
+{
+  "name": "scraper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "GoogleImagesScraper.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node GoogleImagesScraper.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "download": "^7.1.0",
+    "image-downloader": "^3.4.2",
+    "line-reader": "^0.4.0",
+    "mkdirp": "^0.5.1",
+    "n-readlines": "^1.0.0",
+    "phantom": "^6.2.0",
+    "phantomjs": "^2.1.7",
+    "puppeteer": "^1.19.0"
+  }
+}
